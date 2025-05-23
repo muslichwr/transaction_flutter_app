@@ -1,17 +1,17 @@
-# transaction_flutter_app
+# Aplikasi Pencatatan Transaksi Pelanggan
 
-A new Flutter project.
+Aplikasi Flutter untuk mengelola dan melacak transaksi pelanggan dan catatan utang. Dirancang untuk pedagang atau pengusaha kecil yang perlu mencatat transaksi kredit secara efisien.
 
-## Getting Started
+![Preview Aplikasi](image.png)
 
-This project is a starting point for a Flutter application.
+## 👥 Kelola Data Pelanggan dengan Mudah
 
-A few resources to get you started if this is your first Flutter project:
+- Simpan info lengkap pelanggan: nama, nomor WA, alamat, plus total utangnya
+- Total utang otomatis keupdate tiap ada transaksi baru - gak perlu hitung manual!
+- Cari data pelanggan cepat pakai nama/nomor HP - praktis pas lagi buru-buru
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## 📊 Catat Transaksi Cepat & Praktis
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
-# transaction_flutter_app
+- Transaksi Utang: Pas pelanggan minjem barang/nambah utang, tinggal input sekali klik
+- Transaksi Bayar: Begitu pelanggan melunasi, langsung kurangi sisa utang otomatis
+- Lengkap dengan detail: nominal, deskripsi transaksi ("Beli 5kg Beras"), dan tanggalnya
